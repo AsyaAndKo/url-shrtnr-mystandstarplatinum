@@ -19,8 +19,7 @@ describes architecture and implementation details of this project.
 
 After the third laboratory assignment groups will switch projects with one another. Because of this,
 all projects have to have the same high-level structure. Also, this is the reason why you should not
-modify project dependencies.
-
+modify project dependencies
 Please remember that the main goal of the course is **testing** and everything else is just an 
 implementation harness.
 
